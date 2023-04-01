@@ -180,8 +180,8 @@ Formal verification is considered important for smart contracts because it helps
 
 **Mythril** - _EVM bytecode assessment tool for detecting contract vulnerabilities using taint analysis, concolic analysis, and control flow checking._
 
-- [GitHub](https://github.com/ConsenSys/mythril-classic)
-- [Documentation](https://mythril-classic.readthedocs.io/en/master/about.html)
+- [GitHub](https://github.com/ConsenSys/mythril)
+- [Documentation](https://mythril.readthedocs.io/en/master/about.html)
 
 **Slither** - _Python-based Solidity static analysis framework for finding vulnerabilities, enhancing code comprehension, and writing custom analyses for smart contracts._
 
